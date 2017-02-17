@@ -1,0 +1,5 @@
+./negative_images/DSCN9505.JPG
+./negative_images/DSCN9503.JPG
+./negative_images/DSCN9504.JPG
+./negative_images/DSCN9501.JPG
+./negative_images/DSCN9502.JPG
